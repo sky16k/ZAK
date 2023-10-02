@@ -1,0 +1,3 @@
+,acc_train,acc_test,f1_train,f1_test,features
+simple,0.4766,0.4664,0.4085061213763775,0.39552874927283305,"['fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol', 'type_is_red']"
+simple_regr,0.5334,0.5312,0.501763365246304,0.5008706564906983,"['fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol', 'type_is_red']"
